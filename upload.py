@@ -34,7 +34,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 # Display the image above the title
-st.image("https://comcast.github.io/security/uploads/2018/06/21/comcast_cyber_2019.png", use_column_width=True)
+# st.image("https://comcast.github.io/security/uploads/2018/06/21/comcast_cyber_2019.png", use_column_width=True)
 
 # Sidebar: File upload
 st.sidebar.title('Upload File')
