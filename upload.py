@@ -67,7 +67,7 @@ if uploaded_file is not None:
 
 # Check if the DataFrame is initialized
 if st.session_state.df is not None:
-    st.title('Employee Details Tracker - Cyber Product Development(CPD)')
+    st.title('Employee Details Tracker ')
 
     # Display the DataFrame with a wide layout for better visibility
     st.subheader("Current Employee Data")
